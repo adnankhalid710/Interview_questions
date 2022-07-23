@@ -2,7 +2,7 @@
 Reverse_Palindrome-
 fibonacci_Sequence-Reverse String
 
-max_prof.py
+max_proft.py
 --------
 Given a array of numbers representing the stock prices of a company in chronological order, 
 write a function that calculates the maximum profit you could have made from buying and selling
