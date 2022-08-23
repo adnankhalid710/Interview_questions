@@ -1,3 +1,10 @@
+==================================================
+git commands for uplaoding repository
+-- git status
+-- git add .
+-- git commit -m "information about the file"
+-- git push
+==================================================
 # Interview_questions
 Reverse_Palindrome-
 fibonacci_Sequence-Reverse String
