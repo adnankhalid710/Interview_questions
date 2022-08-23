@@ -16,8 +16,8 @@ This problem was asked by Google.
 "sQuestion demand is little modified by Adnan"
 Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
 
-
-=====
+Git commands for uploading repository.
+--------
 git commands for uplaoding repository
 -- git status
 -- git add .
